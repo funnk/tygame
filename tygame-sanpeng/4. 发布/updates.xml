@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="28" updatableVersionMin="" updatableVersionMax="" fileName="PCEditor_install.exe" newVersion="1.0" newMediaFileId="28" fileSize="18506752" bundledJre="windows-x86-1.6.0_41" archive="false">
+    <comment language="zh_CN" />
+  </entry>
+</updateDescriptor>
+
